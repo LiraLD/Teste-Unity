@@ -1,6 +1,8 @@
 # Conhecimento
 Teste de conhecimento sobre unity
 
+![Imagem do projeto](tela.jpeg)
+
 ### **Lista de Tarefas para Implementação de Funcionalidades**
 
 ---
